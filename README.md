@@ -1,0 +1,1 @@
+Note depends on: bower install log --save
